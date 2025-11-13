@@ -1,8 +1,8 @@
 # Boxing Day
 
-A JavaScript game about a boxer who has to fight his way to the championship!
+A JavaScript game about a boxer who has to fight his way to the championship.
 
-**Note:** I created this game back in high school, so some coding practices might be unconventional — but it’s all part of the charm!
+**Note:** I created this game in high school, so some coding practices might be unconventional!
 
 ---
 
@@ -10,7 +10,7 @@ A JavaScript game about a boxer who has to fight his way to the championship!
 
 - Multiple environments with unique interactions  
 - Progressive difficulty as you advance  
-- Classic arcade-style boxing gameplay
+- Arcade-style boxing gameplay
 - Intelligent enemy behaviour
 
 ---
@@ -35,9 +35,6 @@ Click [here](https://editor.p5js.org/341488831/sketches/yALqcCrnu) to play the g
 ## Controls
 Use arrow keys or WASD to move
 
-Press spacebar to punch, holt shift to block
+Press spacebar to punch, hold shift to block
 
 ESC to pause
-
-## About the Project
-This was a passion project created during my high school years using the p5.js library. While the code may not follow modern best practices, it’s a fun example of early game development and creative coding. I really enjoyed exploring practical ways to implement interactive features in the game while applying real concepts I learned in my computer science class. Working on this project helped me connect theory to practice, and it truly fostered my passion for software development.
