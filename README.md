@@ -2,6 +2,8 @@
 
 A JavaScript game about a boxer who has to fight his way to the championship.
 
+<img src="./boxingday.gif" alt="Demo" width="400"/>
+
 **Note:** I created this game in high school, so some coding practices might be unconventional!
 
 ---
